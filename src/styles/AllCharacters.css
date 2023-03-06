@@ -1,0 +1,16 @@
+.basic-btn{
+    width: 10%;
+    height: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color:rgb(0, 181, 204);
+    color: black;
+    border:rgb(178, 223, 40);
+    font-family: Courier;
+}
+
+.profile{
+    border-radius: 20px;
+    border-color: rgb(0, 181, 204);
+    border: 30px;
+}

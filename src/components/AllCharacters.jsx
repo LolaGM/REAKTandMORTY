@@ -17,7 +17,7 @@ function AllCharacters() {
        return(
             <div key={character.id} className="App">               
                 <Link to={`/character/${character.id}`}>
-                    <img src={character.image} alt={character.name}  className='profile'/>
+                    <img src={character.image} alt={character.name} a/>
                 </Link>
                 <p>{character.name}</p>
             </div>

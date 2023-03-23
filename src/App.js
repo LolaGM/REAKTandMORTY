@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="App">
     <img src={rickMortyLogo} alt='Logo Rick and Morty' className='logo'/>
+    <h1>Character List</h1>
        <BrowserRouter>
-        <Routes>
+        <Routes>          
           <Route path='/' element={<AllCharacters/>}></Route>
           <Route path='character/:id' element={<OneCharacter/>}></Route>
         </Routes>

@@ -6,7 +6,7 @@ export const handlers = [
     //rest.post('/login', null),
 
   // Handles a GET /user request
-    rest.get("https://rickandmortyapi.com/api/character", (req,res,ctx)=>{
+    rest.get('https://rickandmortyapi.com/api/character', (req,res,ctx)=>{
         return res(
             ctx.json({
                 "results":[

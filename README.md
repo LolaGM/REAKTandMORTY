@@ -1,7 +1,16 @@
 <img src="https://user-images.githubusercontent.com/116545851/223225156-33dbb4d2-5e52-44c3-9db0-a5dc5633d8de.png" align="center" alt="Reakt and Morty logo" width = 100% height = 400px></img>
 # REAKT and MORTY: Description
 
-This small project was implemented with REACT and a RICK AND MORTY API
+This small project was implemented with REACT and a RICK AND MORTY API.
+We get from the API a complete list of characters. If you click on the image it shows more information about that specific character.
+
+## Screenshots
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+<img style="width:200px; height:400px; margin:12px" src="https://user-images.githubusercontent.com/116545851/227544441-ff29b46f-064b-40b4-90a7-f7e41118d794.png" alt="project demo 1"/>
+<img style="width:200px; height:400px; margin:12px" src="https://user-images.githubusercontent.com/116545851/227545105-767f0167-c101-45f2-ae86-0449ffea13f0.png" alt="project demo 2"/>
+</div>
+
 
 ## Stacks and technologies
 
@@ -21,6 +30,13 @@ This small project was implemented with REACT and a RICK AND MORTY API
 ## Methodology
 
 * Agile (SCRUM) with single programming.
+
+## Tests
+
+```
+npm test
+```
+
 
 ## Next steps
 

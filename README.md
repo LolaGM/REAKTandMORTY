@@ -36,6 +36,11 @@ We get from the API a complete list of characters. If you click on the image it 
 ```
 npm test
 ```
+## How to install steps
+
+* git clone https://github.com/LolaGM/REAKTandMORTY.git 
+* npm install
+* npm start
 
 
 ## Next steps
